@@ -1,0 +1,56 @@
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.deps.json
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.json
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CopyComplete
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.deps.json
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.json
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfo.cs
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CopyComplete
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.deps.json
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.json
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CopyComplete
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.deps.json
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.json
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.runtimeconfig.dev.json
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.DBConnection.pdb
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.AssemblyInfo.cs
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.csproj.CopyComplete
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.dll
+C:\Users\mateu\Desktop\kuciap\ToDo.DBConnection\obj\Debug\netcoreapp2.0\ToDo.DBConnection.pdb

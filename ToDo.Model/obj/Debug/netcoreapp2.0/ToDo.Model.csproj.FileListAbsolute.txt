@@ -1,0 +1,36 @@
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.deps.json
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Projekt todo\Nowy folder\todo-groupproject\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.deps.json
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfo.cs
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.deps.json
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfo.cs
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\Niestacjonarne\ProjektASP\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.deps.json
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\bin\Debug\netcoreapp2.0\ToDo.Model.pdb
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.AssemblyInfo.cs
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.dll
+C:\Users\mateu\Desktop\kuciap\ToDo.Model\obj\Debug\netcoreapp2.0\ToDo.Model.pdb

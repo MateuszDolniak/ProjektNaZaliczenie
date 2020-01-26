@@ -1,0 +1,78 @@
+<!--formularz-->
+<div class="container col-sm-12">
+    <div class="row">
+        <div class='navbar col-sm-3' style="height: 540px; background: #FFB900;">
+            <ul class='nav navbar-nav'>
+                <h1>Dodaj zadanie</h1>
+                <form (ngSubmit)="onSubmit()" #heroForm="ngForm">
+                    <div class="form-group">
+                        <label for="title">Nazwa zadania</label>
+                        <input type="text" class="form-control" id="title" [(ngModel)]="title" [ngModelOptions]="{standalone: true}">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="description">Opis zadania</label>
+                        <input type="text" class="form-control" id="description" [(ngModel)]="description" [ngModelOptions]="{standalone: true}">
+                    </div>                
+
+                    <div class="form-group">
+                        <label for="deadline">Deadline(dzien-miesiac-rok)</label>
+                        <input type="date" class="form-control" id="deadline" [(ngModel)]="deadline" [ngModelOptions]="{standalone: true}">
+                    </div>
+                    
+
+                    <button type="submit" class="btn btn-success">Dodaj</button>
+                </form>
+            </ul>
+        </div>
+
+    <p *ngIf="!tasks"><em>Laduje...</em></p>
+
+        <table class='table col-sm-9' *ngIf="tasks">
+            <thead>
+            <tr>
+                <th>Status Zadania</th>
+                <th>Tytul</th>
+                <th>Opis</th>
+                <th>Priorytet</th>
+                <th>Deadline</th>
+                <th>Usun zadanie</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let task of tasks">
+                <td>
+                    <div class="dropdown">
+                        <button class="btn btn-success dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            {{task.status}}
+                        </button>
+
+                        <div class="dropdown-menu" role="menu" aria-labelledby="dropdownMenuButton">
+                            <button class="dropdown-item" role="menuitem" (click)="chooseStatus(task.id, status.ToDo)">Do zrobienia</button>
+                            <button class="dropdown-item" role="menuitem" (click)="chooseStatus(task.id, status.InProgress)">W trakcie</button>
+                            <button class="dropdown-item" role="menuitem" (click)="chooseStatus(task.id, status.Done)">Zrobione</button>
+                        </div>
+                    </div>
+                </td>
+                <td>{{ task.title }}</td>
+                <td>{{ task.description }}</td>              
+                <td>
+                    <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownMenuButton2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            {{task.priority}}
+                        </button>
+
+                        <div class="dropdown-menu" role="menu" aria-labelledby="dropdownMenuButton2">
+                            <button class="dropdown-item" role="menuitem" (click)="choosePriority(task.id, priority.Low)">Niski</button>
+                            <button class="dropdown-item" role="menuitem" (click)="choosePriority(task.id, priority.Normal)">Normalny</button>
+                            <button class="dropdown-item" role="menuitem" (click)="choosePriority(task.id, priority.High)">Wysoki</button>
+                        </div>
+                    </div>
+                </td>
+                <td>{{ task.deadline }}</td>
+                <button (click)="deleteTask(task.id)" type="button" class="btn btn-danger">X</button>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
